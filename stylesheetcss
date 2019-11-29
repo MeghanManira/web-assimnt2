@@ -1,0 +1,6 @@
+html,
+.top{
+	height: 50px;
+	width: 1000px;
+}
+	
